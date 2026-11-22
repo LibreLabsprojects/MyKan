@@ -27,9 +27,9 @@ Somos [quiénes son] que ayudamos a [a quién] mediante [cómo / qué solución]
 | Integrante | Rol | Responsabilidades |
 |---|---|---|
 | Benjamín Monsalvez | Jefe de proyecto | Coordinación, planificación |
-| Camilo Gatica | Diseñador|UX | ... |
+| Camilo Gatica | Diseñador/UX | ... |
 | Edgard Luna | | Frontend | ... |
 | Juan Carlos Ramírez | Backend | ... |
 
 ## Planificación
-Ver la [carta Gantt](PLANIFICACION.md).
+Visualizar [Carta Gantt](PLANIFICACION.md).
