@@ -28,7 +28,7 @@ Somos [quiénes son] que ayudamos a [a quién] mediante [cómo / qué solución]
 |---|---|---|
 | Benjamín Monsalvez | Jefe de proyecto | Coordinación, planificación |
 | Camilo Gatica | Diseñador/UX | ... |
-| Edgard Luna | | Frontend | ... |
+| Edgard Luna | | Frontend | | ... |
 | Juan Carlos Ramírez | Backend | ... |
 
 ## Planificación
