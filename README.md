@@ -16,10 +16,10 @@ Somos [quiénes son] que ayudamos a [a quién] mediante [cómo / qué solución]
 ## Integrantes
 | Nombre | GitHub | Rol |
 |---|---|---|
-| Benjamín Monsalvez | [@LibreLabsprojects](https://github.com/LibreLabsprojects) | Líder del proyecto |
+| Benjamín Monsalvez | [@usuario1](https://github.com/usuario1) | Líder del proyecto |
 | Camilo Gatica | [@usuario2](https://github.com/usuario2) | Diseñador|UX |
 | Edgard Luna | [@usuario3](https://github.com/usuario3) | Frontend |
-| Juan Carlos Ramírez | [@usuario3](https://github.com/usuario3) | Backend |
+| Juan Carlos Ramírez | [@usuario3](https://github.com/LibreLabsprojects) | Backend |
 
 ## Cómo nos organizamos
 **Jefe de proyecto:** coordina al equipo, define plazos, hace seguimiento de la carta Gantt y presenta en el Demo Day.
