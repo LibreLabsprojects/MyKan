@@ -20,6 +20,6 @@ Voy a [objetivo específico], medido por [cómo lo mides], para el [fecha límit
 dedicando [tiempo] a la semana, porque [por qué es relevante para mí].
 
 ## 📬 Contacto
-- GitHub: [@Camilo2556]([https://github.com/usuario](https://github.com/Camilo2556))
+- GitHub: [@Camilo2556](https://github.com/Camilo2556)
 - Correo: ...
 - LinkedIn: ...
