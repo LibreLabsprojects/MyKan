@@ -19,5 +19,5 @@ Voy a [objetivo específico], medido por [cómo lo mides], para el [fecha límit
 dedicando [tiempo] a la semana, porque [por qué es relevante para mí].
 
 ## 📬 Contacto
-- GitHub: [@LibreLabsprojects](https://github.com/LiberLabsprojects)
+- GitHub: [@LibreLabsprojects](https://github.com/LibreLabsprojects)
 - Correo: ...
