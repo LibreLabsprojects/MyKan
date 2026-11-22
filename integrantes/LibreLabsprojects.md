@@ -29,4 +29,4 @@ dedicando [tiempo] a la semana, porque [por qué es relevante para mí].
 
 ## 📬 Contacto
 - GitHub: [@LibreLabsprojects](https://github.com/LibreLabsprojects)
-- Correo: ...
+- Correo: [juan.ramirez@cftaraucania.cl](mailto:juan.ramirez@cftaraucania.cl)
