@@ -12,8 +12,9 @@ Soy [profesión/estudiante de...] que ayuda a [a quién] mediante [habilidades].
 - Herramientas: ...
 
 ## ⭐ Proyecto destacado
+Creador de:
 **Lucid Hub:** Reproductor de multimedia local.
-Enlace: [Lucid Hub](https://github.com/LibreLabsprojects/lucid-hub-releases)]
+Enlace: [Lucid Hub](https://github.com/LibreLabsprojects/lucid-hub-releases)
 ## 📚 Qué estoy aprendiendo (objetivo SMART)
 Voy a [objetivo específico], medido por [cómo lo mides], para el [fecha límite],
 dedicando [tiempo] a la semana, porque [por qué es relevante para mí].
