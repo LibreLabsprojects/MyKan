@@ -17,7 +17,7 @@ Somos [quiénes son] que ayudamos a [a quién] mediante [cómo / qué solución]
 | Nombre | GitHub | Rol |
 |---|---|---|
 | Benjamín Monsalvez | [@usuario1](https://github.com/usuario1) | Líder del proyecto |
-| Camilo Gatica | [@Camilo2556](https://github.com/Camilo2556) | Diseñador|UX |
+| Camilo Gatica | [@Camilo2556](https://github.com/Camilo2556) | Diseñador/UX |
 | Edgard Luna | [@usuario3](https://github.com/usuario3) | Frontend |
 | Juan Carlos Ramírez | [@LibreLabsProjects](https://github.com/LibreLabsprojects) | Backend |
 
