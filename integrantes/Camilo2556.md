@@ -21,5 +21,4 @@ dedicando [tiempo] a la semana, porque [por qué es relevante para mí].
 
 ## 📬 Contacto
 - GitHub: [@Camilo2556](https://github.com/Camilo2556)
-- Correo: ...
-- LinkedIn: ...
+- Correo: [@Camilo Alfredo Gatica Saavedra]@camilo.gatica@cftaraucania.cl
