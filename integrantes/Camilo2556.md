@@ -1,15 +1,19 @@
-# Nombre Apellido
-**Rol en el equipo:** ...
+# Camilo Gatica
+**Diseñador/UI Designer:**
 
 ## 💡 Propuesta de valor
-Soy [profesión/estudiante de...] que ayuda a [a quién] mediante [habilidades].
+### 💡 Propuesta de valor
+
+Soy **Estudiante y UI Designer** que contribuye al proyecto mediante el diseño de interfaces, mockups y propuestas visuales. Busco transformar las necesidades de la veterinaria Mykan en una solución clara, funcional y fácil de utilizar, aportando creatividad, organización y atención a la experiencia del usuario.
 
 ## 👤 Sobre mí
-2–3 líneas: quién eres, qué te motiva, fortalezas (coherente con tu FODA del Hito 2).
+Soy estudiante de **Analista Programador**, interesado en el desarrollo de soluciones digitales y el diseño de interfaces. 
+Me considero una persona perseverante y con facilidad para trabajar en equipo. Me gusta aprender nuevas habilidades, escuchar diferentes puntos de vista y adquirir conocimientos de personas con más experiencia. Actualmente busco seguir fortaleciendo mi seguridad al momento de tomar decisiones y comunicar mis ideas.
 
 ## 🛠️ Tecnologías
-- Lenguajes: ...
-- Herramientas: ...
+- **Lenguajes:** Python (básico), HTML (básico).
+- **Herramientas:** Visual Studio Code, GitHub Desktop.
+- **Diseño:** UI y creación de mockups (básico).
 
 ## ⭐ Proyecto destacado
 **Nombre del proyecto:** qué hace y qué hiciste tú.
