@@ -2,8 +2,6 @@
 **Diseñador/UI Designer:**
 
 ## 💡 Propuesta de valor
-### 💡 Propuesta de valor
-
 Soy **Estudiante y UI Designer** que contribuye al proyecto mediante el diseño de interfaces, mockups y propuestas visuales. Busco transformar las necesidades de la veterinaria Mykan en una solución clara, funcional y fácil de utilizar, aportando creatividad, organización y atención a la experiencia del usuario.
 
 ## 👤 Sobre mí
