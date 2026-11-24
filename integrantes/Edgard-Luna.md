@@ -33,4 +33,4 @@ Voy a fortalecer mis conocimientos en desarrollo de aplicaciones móviles con Fl
 ## 📬 Contacto
 
 - *GitHub:* [@edgardlunatoledo07-cmyk](https://github.com/edgardlunatoledo07-cmyk)
-- *Correo:* [Pendiente]
+- *Correo:* edgard.luna@cftaraucanía.cl
