@@ -1,4 +1,4 @@
-*Rol en el equipo:* Líder de equipo, coordinador y desarrollador de software.
+*Rol en el equipo:* Desarrollador Frontend, coordinador y desarrollador de software.
 
 ## 💡 Propuesta de valor
 
