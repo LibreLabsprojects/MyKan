@@ -14,8 +14,10 @@ Me considero una persona perseverante y con facilidad para trabajar en equipo. M
 - **Diseño:** UI y creación de mockups (básico).
 
 ## ⭐ Proyecto destacado
-**Nombre del proyecto:** qué hace y qué hiciste tú.
-Enlace: [repositorio](https://github.com/usuario/proyecto)
+**Nombre del Proyecto:** Aplicación móvil para gestión de pedidos de comida rápida.
+**¿Qué hace?**
+Aplicación móvil desarrollada para un local de comida rápida, que permite visualizar un catálogo de productos, agregar productos al carrito, realizar pedidos, iniciar sesión y consultar el historial y estado de los pedidos.
+**Mi trabajo:** Desarrollé el proyecto de manera individual desde cero, encargándome del análisis, diseño de interfaces y mockups, desarrollo de la aplicación y creación de sus principales funcionalidades utilizando Flutter y Visual Studio Code.
 
 ## 📚 Qué estoy aprendiendo (objetivo SMART)
 Voy a [objetivo específico], medido por [cómo lo mides], para el [fecha límite],
