@@ -1,5 +1,5 @@
 # Juan Carlos Ramírez Aguilar
-**Desarrollador Backend:**
+**Rol en el equipo: Desarrollador Backend, Analista de Base de datos y desarrollador de software.**
 
 ## 💡 Propuesta de valor
 Soy estudiante en la carrera de Analista Programador y desarrollador independiente, que ayuda a equipos y
