@@ -2,18 +2,21 @@
 **Desarrollador Backend:**
 
 ## 💡 Propuesta de valor
-Soy [profesión/estudiante de...] que ayuda a [a quién] mediante [habilidades].
-
+Soy estudiante en la carrera de Analista Programador y desarrollador independiente, que ayuda a equipos y
+clientes a llevar sus proyectos a producción, mediante desarrollo de apps Android
+de forma autónoma y la colaboración como contratista en proyectos externos.
 ## 👤 Sobre mí
-Estudiante de [carrera] en el CFT [Araucanía], apasionado por crear aplicaciones
-que resuelvan problemas cotidianos. Me gusta llevar un proyecto desde la idea
+Estudiante en el area de informáticas, desarrollador de apps móviles que resuelvan problemas cotidianos. Me gusta llevar un proyecto desde la idea
 hasta su publicación, cuidando tanto el funcionamiento como la experiencia del usuario.
-Mis fortalezas son [ej. la autonomía, la constancia y el aprendizaje autodidacta].
-
+Mis fortalezas son [ej. la autonomía, la constancia y el aprendizaje autodidacta.].
+Me caracterizo por organizar el trabajo a partir de criterios claros y por
+comprender las distintas opiniones y formas de trabajar de las personas con
+quienes colaboro. En equipo suelo poner un estándar alto y dar el ejemplo, y me
+preocupo de que todos avancen al mismo nivel, explicando y apoyando a quien lo necesite.
 ## 🛠️ Tecnologías
-- **Lenguajes:** [Kotlin / Java]
-- **Desarrollo móvil:** Android, [Android Studio, Jetpack Compose]
-- **Herramientas:** Git, GitHub, [otras]
+- **Lenguajes:** [Java, Python, JavaScript]
+- **Desarrollo móvil:** Android, [Android Studio]
+- **Herramientas:** Git, GitHub,Visual Code Studio, Android Studio (Android SDK) y Flutter.
   
 ## ⭐ Proyecto destacado: Lucid Hub
 Reproductor de música local para Android, **sin anuncios**. Permite escuchar
