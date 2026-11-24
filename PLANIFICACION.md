@@ -4,64 +4,67 @@
 **Equipo:** PentaSolutions
 **Duración:** 16 semanas (1 de marzo al 20 de junio de 2027)
 
-## Equipo
-
-| Integrante | Rol |
-|---|---|
-| Benjamín Monsálves | Líder de proyecto |
-| Camilo Gatica | Diseñador |
-| Juan Carlos Ramírez | Backend |
-| Edgard Luna | Frontend |
-
 ## Carta Gantt
 
 ```mermaid
+%%{init: {"theme":"base","themeVariables":{"taskBkgColor":"#3b82f6","taskBorderColor":"#1d4ed8","activeTaskBkgColor":"#22c55e","activeTaskBorderColor":"#15803d","doneTaskBkgColor":"#a855f7","doneTaskBorderColor":"#7e22ce","critBkgColor":"#f97316","critBorderColor":"#c2410c","taskTextColor":"#ffffff","taskTextLightColor":"#ffffff","taskTextDarkColor":"#ffffff","taskTextOutsideColor":"#9ca3af","sectionBkgColor":"#80808018","altSectionBkgColor":"#80808005","sectionBkgColor2":"#80808018","gridColor":"#80808055","titleColor":"#9ca3af","textColor":"#9ca3af","todayLineColor":"transparent"}}}%%
 gantt
-    title Carta Gantt – Sistema de Gestión Clínica Veterinaria MyKan
+    title Carta Gantt – Clínica Veterinaria MyKan
     dateFormat YYYY-MM-DD
     axisFormat %d/%m
+    tickInterval 2week
 
-    section Planificación
-    Reuniones con cliente y requerimientos      :t1, 2027-03-01, 2w
-    Planificación técnica y arquitectura        :t2, 2027-03-15, 2w
+    section Benjamín
+    Requerimientos            :crit, t1, 2027-03-01, 2w
+    Planificación             :crit, t2, 2027-03-15, 2w
+    Puesta en marcha          :crit, t3, 2027-05-24, 2w
 
-    section Diseño
-    Modelo de datos y scripts BD                :t3, 2027-03-15, 4w
-    Wireframes y prototipos                     :t4, 2027-03-15, 2w
-    Diseño de pantallas y navegación            :t5, 2027-03-29, 2w
+    section Camilo
+    Wireframes                :done, t4, 2027-03-15, 2w
+    Diseño pantallas          :done, t5, 2027-03-29, 2w
+    Revisión UX               :done, t6, 2027-05-10, 2w
 
-    section Desarrollo
-    Módulos pacientes y agenda de citas         :t6, 2027-03-29, 4w
-    Módulos pagos e inventario                  :t7, 2027-04-12, 4w
-    Seguridad, roles y autenticación            :t8, 2027-04-26, 4w
-    Ajustes de diseño y experiencia de usuario  :t9, 2027-05-10, 2w
+    section Juan Carlos
+    Arquitectura              :t7, 2027-03-15, 2w
+    Base de datos             :t8, 2027-03-15, 4w
+    API pacientes y citas     :t9, 2027-03-29, 4w
+    API pagos e inventario    :t10, 2027-04-12, 4w
+    Seguridad y roles         :t11, 2027-04-26, 4w
 
-    section Pruebas
-    Pruebas internas y de integración           :t10, 2027-04-26, 4w
-    Pruebas con usuarios y corrección de errores :t11, 2027-05-24, 2w
+    section Edgard
+    Pantallas pacientes y citas   :active, t12, 2027-03-29, 4w
+    Pantallas pagos e inventario  :active, t13, 2027-04-12, 4w
+    Login y ajustes UI            :active, t14, 2027-05-10, 2w
 
-    section Cierre
-    Implementación piloto y capacitación        :t12, 2027-05-24, 2w
-    Entrega final y documentación               :t13, 2027-06-07, 2w
+    section Equipo
+    Pruebas internas          :crit, t15, 2027-04-26, 4w
+    Pruebas usuarios          :crit, t16, 2027-05-24, 2w
+    Entrega final             :crit, t17, 2027-06-07, 2w
 ```
+
+**Leyenda:** 🟠 Benjamín (Líder) y equipo completo · 🟣 Camilo (Diseñador) · 🔵 Juan Carlos (Backend) · 🟢 Edgard (Frontend)
 
 ## Detalle de actividades
 
-| # | Actividad | Responsable | Semanas | Fechas |
+| Fase | Actividad | Responsable | Semanas | Fechas |
 |---|---|---|---|---|
-| 1 | Reuniones con cliente y levantamiento de requerimientos | Benjamín (Líder) | 1–2 | 01/03 – 14/03 |
-| 2 | Planificación técnica y definición de arquitectura | Benjamín / Juan Carlos | 3–4 | 15/03 – 28/03 |
-| 3 | Modelo de datos y scripts de base de datos | Juan Carlos (Backend) | 3–6 | 15/03 – 11/04 |
-| 4 | Wireframes y prototipos | Camilo (Diseñador) | 3–4 | 15/03 – 28/03 |
-| 5 | Diseño de pantallas y flujo de navegación | Camilo (Diseñador) | 5–6 | 29/03 – 11/04 |
-| 6 | Módulos de pacientes y agenda de citas | Juan Carlos / Edgard | 5–8 | 29/03 – 25/04 |
-| 7 | Módulos de pagos e inventario | Juan Carlos / Edgard | 7–10 | 12/04 – 09/05 |
-| 8 | Seguridad, roles y autenticación | Juan Carlos (Backend) | 9–12 | 26/04 – 23/05 |
-| 9 | Ajustes de diseño y experiencia de usuario | Camilo / Edgard | 11–12 | 10/05 – 23/05 |
-| 10 | Pruebas internas y de integración | Equipo completo | 9–12 | 26/04 – 23/05 |
-| 11 | Pruebas con usuarios y corrección de errores | Equipo completo | 13–14 | 24/05 – 06/06 |
-| 12 | Implementación piloto y capacitación | Benjamín (Líder) | 13–14 | 24/05 – 06/06 |
-| 13 | Entrega final y documentación | Equipo completo | 15–16 | 07/06 – 20/06 |
+| Planificación | Reuniones con cliente y levantamiento de requerimientos | Benjamín (Líder) | 1–2 | 01/03 – 14/03 |
+| Planificación | Planificación técnica y seguimiento del proyecto | Benjamín (Líder) | 3–4 | 15/03 – 28/03 |
+| Planificación | Definición de arquitectura | Juan Carlos (Backend) | 3–4 | 15/03 – 28/03 |
+| Diseño | Modelo de datos y scripts de base de datos | Juan Carlos (Backend) | 3–6 | 15/03 – 11/04 |
+| Diseño | Wireframes y prototipos | Camilo (Diseñador) | 3–4 | 15/03 – 28/03 |
+| Diseño | Diseño de pantallas y flujo de navegación | Camilo (Diseñador) | 5–6 | 29/03 – 11/04 |
+| Desarrollo | API de pacientes y agenda de citas | Juan Carlos (Backend) | 5–8 | 29/03 – 25/04 |
+| Desarrollo | Pantallas de pacientes y agenda de citas | Edgard (Frontend) | 5–8 | 29/03 – 25/04 |
+| Desarrollo | API de pagos e inventario | Juan Carlos (Backend) | 7–10 | 12/04 – 09/05 |
+| Desarrollo | Pantallas de pagos e inventario | Edgard (Frontend) | 7–10 | 12/04 – 09/05 |
+| Desarrollo | Seguridad, roles y autenticación | Juan Carlos (Backend) | 9–12 | 26/04 – 23/05 |
+| Desarrollo | Pantalla de login y ajustes de interfaz | Edgard (Frontend) | 11–12 | 10/05 – 23/05 |
+| Desarrollo | Revisión de experiencia de usuario (UX) | Camilo (Diseñador) | 11–12 | 10/05 – 23/05 |
+| Pruebas | Pruebas internas y de integración | Equipo completo | 9–12 | 26/04 – 23/05 |
+| Pruebas | Pruebas con usuarios y corrección de errores | Equipo completo | 13–14 | 24/05 – 06/06 |
+| Cierre | Implementación piloto y capacitación | Benjamín (Líder) | 13–14 | 24/05 – 06/06 |
+| Cierre | Entrega final y documentación | Equipo completo | 15–16 | 07/06 – 20/06 |
 
 ## Hitos
 
