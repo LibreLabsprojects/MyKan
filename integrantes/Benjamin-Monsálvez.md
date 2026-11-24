@@ -1,4 +1,3 @@
-
 # Benjamín Monsálvez
 
 Rol en el equipo: Jefe de Proyecto / Líder de Equipo.
