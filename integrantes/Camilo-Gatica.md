@@ -23,5 +23,6 @@ Aplicación móvil desarrollada para un local de comida rápida, que permite vis
 Voy a mejorar mis conocimientos en desarrollo de aplicaciones móviles con Flutter, creando y completando funcionalidades en mis propios proyectos, medido por la cantidad de funcionalidades que logre implementar de forma independiente, durante los próximos 3 meses, dedicando al menos 4 horas a la semana, porque quiero fortalecer mis habilidades como futuro Analista Programador.
 
 ## 📬 Contacto
--**GitHub:** [@Camilo2556](https://github.com/Camilo2556)
--**Correo:** camilo.gatica@cftaraucania.cl
+- *GitHub:* [@Camilo2556](https://github.com/Camilo2556)
+- *Correo:* [camilo.gatica@cftaraucania.cl]
+
