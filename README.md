@@ -24,7 +24,7 @@ seguros y pensados para su forma de trabajar.
 | Benjamín Monsalvez | Lider de proyecto | [@benjamin8520](https://github.com/benjamin8520) | [Ver perfil](integrantes/Benjamin-Monsálvez.md) |
 | Camilo Gatica | Diseñador UX/UI | [@Camilo2556](https://github.com/Camilo2556) | [Ver perfil](integrantes/Camilo-Gatica.md) |
 | Edgard Luna | Frontend | [@edgardlunatoledo07-cmyk](https://github.com/edgardlunatoledo07-cmyk) | [Ver perfil](integrantes/Edgard-Luna.md) |
-| Juan Carlos Ramírez | Backend | [@LibreLabsprojects](https://github.com/LibreLabsprojects) | [Ver perfil](integrantes/Juan-Ramírezs.md) |
+| Juan Carlos Ramírez | Backend | [@LibreLabsprojects](https://github.com/LibreLabsprojects) | [Ver perfil](integrantes/Juan-Ramírez.md) |
 
 ## Cómo nos organizamos
 **Jefe de proyecto:** coordina al equipo, define tareas y plazos, hace seguimiento de la
