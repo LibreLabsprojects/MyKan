@@ -24,5 +24,4 @@ Voy a mejorar mis conocimientos en desarrollo de aplicaciones móviles con Flutt
 
 ## 📬 Contacto
 **GitHub:** @Camilo2556
-
 **Correo:** camilo.gatica@cftaraucania.cl
