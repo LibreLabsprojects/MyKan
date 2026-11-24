@@ -16,7 +16,7 @@ preocupo de que todos avancen al mismo nivel, explicando y apoyando a quien lo n
 ## 🛠️ Tecnologías
 - **Lenguajes:** Java, Python, JavaScript
 - **Desarrollo móvil:** Android, (Android Studio)
-- **Herramientas:** Git, GitHub,Visual Code Studio, Android Studio (Android SDK) y Flutter.
+- **Herramientas:** Git, GitHub,Visual Code Studio, Android Studio (Android SDK), Flutter y SQL Server (Base de datos).
   
 ## ⭐ Proyecto destacado: Lucid Hub
 Reproductor de música local para Android, **sin anuncios**. Permite escuchar
