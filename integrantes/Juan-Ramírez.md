@@ -37,7 +37,7 @@ con 3 ideas clave.
 | **M** | Medible | El 100 % de los perfiles subidos y las tareas de la Gantt cumplidas en su fecha, y un compañero capaz de resumir bien lo que expliqué. |
 | **A** | Alcanzable | El proyecto es acotado, el equipo es pequeño y usamos GitHub para ver el avance de cada uno. |
 | **R** | Relevante | Trabaja mis dos debilidades del FODA: coordinar tiempos y acuerdos (D1) y comunicar mis ideas con claridad (D2). |
-| **T** | Temporal | Antes del Demo Day, el [fecha]. |
+| **T** | Temporal | Antes del Demo Day. |
 ## 📬 Contacto
 - GitHub: [@LibreLabsprojects](https://github.com/LibreLabsprojects)
 - Correo: [juan.ramirez@cftaraucania.cl](mailto:juan.ramirez@cftaraucania.cl)
