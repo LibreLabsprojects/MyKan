@@ -1,4 +1,4 @@
-# FourSolutions 💻
+# FourSolutions
 **Proyectos a tu medida**
 
 ## Descripción
