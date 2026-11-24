@@ -22,7 +22,7 @@ preocupo de que todos avancen al mismo nivel, explicando y apoyando a quien lo n
 Reproductor de música local para Android, **sin anuncios**. Permite escuchar
 la música guardada en el teléfono con una interfaz limpia y sin interrupciones.
 
-- **Mi aporte:** diseño, desarrollo y publicación de la app completa.
+- **Mi aporte:** Análisis, Diseño, Desarrollo, Pruebas y publicación de la app completa.
 - **Código:** [lucid-hub](https://github.com/LibreLabsprojects/lucid-hub)
 - **Descargas:** [lucid-hub-releases](https://github.com/LibreLabsprojects/lucid-hub-releases)
 
