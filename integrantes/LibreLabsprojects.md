@@ -14,8 +14,8 @@ comprender las distintas opiniones y formas de trabajar de las personas con
 quienes colaboro. En equipo suelo poner un estándar alto y dar el ejemplo, y me
 preocupo de que todos avancen al mismo nivel, explicando y apoyando a quien lo necesite.
 ## 🛠️ Tecnologías
-- **Lenguajes:** [Java, Python, JavaScript]
-- **Desarrollo móvil:** Android, [Android Studio]
+- **Lenguajes:** Java, Python, JavaScript
+- **Desarrollo móvil:** Android, (Android Studio)
 - **Herramientas:** Git, GitHub,Visual Code Studio, Android Studio (Android SDK) y Flutter.
   
 ## ⭐ Proyecto destacado: Lucid Hub
@@ -26,10 +26,18 @@ la música guardada en el teléfono con una interfaz limpia y sin interrupciones
 - **Código:** [lucid-hub](https://github.com/LibreLabsprojects/lucid-hub)
 - **Descargas:** [lucid-hub-releases](https://github.com/LibreLabsprojects/lucid-hub-releases)
 
-## 📚 Qué estoy aprendiendo (objetivo SMART)
-Voy a [objetivo específico], medido por [cómo lo mides], para el [fecha límite],
-dedicando [tiempo] a la semana, porque [por qué es relevante para mí].
+**Objetivo:** mejorar mi comunicación y coordinación en equipo durante este
+proyecto, logrando que todos los integrantes suban su perfil y cumplan la carta
+Gantt sin trabajo de último minuto, y presentando mi parte en el Demo Day
+con 3 ideas clave.
 
+| Letra | Criterio | Mi objetivo |
+|---|---|---|
+| **S** | Específico | Acordar al inicio tareas y plazos con el equipo, registrarlos en la carta Gantt y preparar 3 ideas clave para mi presentación. |
+| **M** | Medible | El 100 % de los perfiles subidos y las tareas de la Gantt cumplidas en su fecha, y un compañero capaz de resumir bien lo que expliqué. |
+| **A** | Alcanzable | El proyecto es acotado, el equipo es pequeño y usamos GitHub para ver el avance de cada uno. |
+| **R** | Relevante | Trabaja mis dos debilidades del FODA: coordinar tiempos y acuerdos (D1) y comunicar mis ideas con claridad (D2). |
+| **T** | Temporal | Antes del Demo Day, el [fecha]. |
 ## 📬 Contacto
 - GitHub: [@LibreLabsprojects](https://github.com/LibreLabsprojects)
 - Correo: [juan.ramirez@cftaraucania.cl](mailto:juan.ramirez@cftaraucania.cl)
